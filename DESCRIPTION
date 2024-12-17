@@ -1,6 +1,6 @@
 Package: pareg
 Title: Pathway enrichment using a regularized regression approach
-Version: 1.11.0
+Version: 1.11.1
 Authors@R:
     c(
         person(
@@ -86,3 +86,4 @@ Imports:
     devtools,
     basilisk
 StagedInstall: no
+PackageStatus: Deprecated
